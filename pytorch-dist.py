@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
- import time, os, argparse
+import time, os, argparse
 import torch
 from torch import nn
 from torch.utils.data import DataLoader
